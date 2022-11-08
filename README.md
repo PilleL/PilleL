@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **everything**
 
-- 💻 Primary Coding Language: **JavaScript**
+- 💻 Primary Coding Language **JavaScript**
 
 - 📫 How to reach me **pillelyys@gmail.com**
 
-- ⚡ Fun fact **Fun fact: I love to sew goth clothes for children**
+- ⚡ Fun fact **I love to sew goth clothes for children**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
